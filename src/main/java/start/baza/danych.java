@@ -1,4 +1,4 @@
-package start.baza;
+﻿package start.baza;
 
 public class danych {
 
@@ -62,5 +62,5 @@ ID || PRODUCENT || MODEL || RODZAJ || PREDKOSC || STAN MAG. || CENA
  */
 // karty dźwiękowe - SOUNDCARD
 /*
-ID || PRODUCENT || MODEL || SNR || WYJSCIE OPTYCZNE || WZMACNIACZ SLUCHAWKOWY || STAN MAG. || CENA
+ID || PRODUCENT || MODEL || SNR || WYJSCIE OPTYCZNE || WZMACNIACZYK SLUCHAWKOWY || STAN MAG. || CENA
  */
